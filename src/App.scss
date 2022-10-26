@@ -1,0 +1,30 @@
+.background{
+    background-color: #f8fafc;
+}
+.body{
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 0;
+}
+.faq{
+    max-width: 312px;
+    margin: 0 50px 0 0;
+}
+.faq-text{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    font-weight: 600;
+    color: rgb(68, 68, 68);
+}
+.faq-paragraph{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    color: rgb(49, 49, 49);
+}
+.link{
+    color: #DD6B20;
+    text-decoration: none;
+}
+.more-info{
+
+}
